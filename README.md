@@ -41,9 +41,6 @@ I am a java/kotlin developer who is constantly learning.<br>My main qualities ar
 ![](https://nirzak-streak-stats.vercel.app/?user=WhyZerVellasskx&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyZerVellasskx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WhyZerVellasskx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=WhyZerVellasskx&icon=0&color=11)](https://visitcount.itsvg.in)
 
