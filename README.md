@@ -39,7 +39,6 @@ I am a java/kotlin developer who is constantly learning.<br>My main qualities ar
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WhyZerVellasskx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=WhyZerVellasskx&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyZerVellasskx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WhyZerVellasskx&icon=0&color=11)](https://visitcount.itsvg.in)
