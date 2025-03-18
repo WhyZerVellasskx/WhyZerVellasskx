@@ -35,12 +35,4 @@ I am a java/kotlin developer who is constantly learning.<br>My main qualities ar
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WhyZerVellasskx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=WhyZerVellasskx&theme=tokyonight&hide_border=false)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=WhyZerVellasskx&icon=0&color=11)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
