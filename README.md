@@ -24,7 +24,6 @@ I am a java/kotlin developer who is constantly learning.<br>My main qualities ar
 ![HSQLDB](https://img.shields.io/badge/HSQLDB-008CBA?style=for-the-badge&logoColor=white)
 
 ![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Bukkit](https://img.shields.io/badge/Bukkit-E34F26?style=for-the-badge)
 ![Guice](https://img.shields.io/badge/Guice-59C36A?style=for-the-badge&logo=google&logoColor=white)
 
