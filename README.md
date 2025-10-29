@@ -12,6 +12,4 @@ I am a java/kotlin developer who is constantly learning.<br>My main qualities ar
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whyzervellasskx&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=whyzervellasskx&icon=1&color=5)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
