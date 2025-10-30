@@ -9,14 +9,6 @@ I am a java/kotlin developer who is constantly learning.<br>My main qualities ar
  
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=whyzervellasskx&theme=github_dark&hide_border=false)<br/>
-<a href="https://github.com/WhyZerVellasskx/Cool-GitHub-Profile-README/stargazers"><img src="https://img.shields.io/github/stars/WhyZerVellasskx/Cool-GitHub-Profile-README" alt="Stars Badge"/></a>
-<a href="https://github.com/WhyZerVellasskx/Cool-GitHub-Profile-README/network/members"><img src="https://img.shields.io/github/forks/WhyZerVellasskx/Cool-GitHub-Profile-README" alt="Forks Badge"/></a>
-<a href="https://github.com/WhyZerVellasskx/Cool-GitHub-Profile-README/pulls"><img src="https://img.shields.io/github/issues-pr/WhyZerVellasskx/Cool-GitHub-Profile-README" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/WhyZerVellasskx/Cool-GitHub-Profile-README/issues"><img src="https://img.shields.io/github/issues/WhyZerVellasskx/Cool-GitHub-Profile-README" alt="Issues Badge"/></a>
-<a href="https://github.com/WhyZerVellasskx/Cool-GitHub-Profile-README/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/WhyZerVellasskx/Cool-GitHub-Profile-README?color=2b9348"></a>
-![maintenance-status](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg)
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-<a href="https://github.com/WhyZerVellasskx/Cool-GitHub-Profile-README/blob/master/LICENSE"><img src="https://img.shields.io/github/license/WhyZerVellasskx/Cool-GitHub-Profile-README" alt="License Badge"/></a>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
